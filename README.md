@@ -26,4 +26,4 @@ Here are some ideas to get you started:
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
-![Abhishek's github stats](https://github-readme-stats.vercel.app/api?username=zhukunpenglinyutong&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+![Abhishek's github stats](https://github-readme-stats.vercel.app/api?username=zhukunpenglinyutong&show_icons=true&title_color=66FF66&icon_color=FFFFFF&text_color=FFFFFF&bg_color=333333)
