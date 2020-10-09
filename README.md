@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 👯 努力达到 A+～
+- 👯 努力达到 A++～
 
 **Languages and Tools:**  
 
