@@ -42,5 +42,5 @@ Here are some ideas to get you started:
 <p align="left">
 <a href="https://github.com/zhukunpenglinyutong">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zhukunpenglinyutong&show_icons=true&title_color=66FF66&icon_color=FFFFFF&text_color=FFFFFF&bg_color=333333" />
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=zhukunpenglinyutong&layout=compact&exclude_lang=java+r&theme=vue-dark" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=zhukunpenglinyutong&layout=compact&exclude_lang=java+r" />
 </a>
