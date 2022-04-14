@@ -20,7 +20,8 @@ Here are some ideas to get you started:
 - 🌱 区块链共建者
 - 👯 Web3.0技术拥护者
 - 💬 近期在组建IT-DAO(web3中文技术第一DAO)
-
+- ⚡  IT-DAO OG
+- 
 ---
 
 ### 🛠 &nbsp;Tech Stack
