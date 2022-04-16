@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://itzkp-1253302184.cos.ap-beijing.myqcloud.com/it-dao.jpg" />
+<img style="width: 70%;" src="https://itzkp-1253302184.cos.ap-beijing.myqcloud.com/it-dao.jpg" />
 
 - 🔭 我在北京工作~ 98年，已有未婚妻 😁
 - 📫 前端开发工程师
