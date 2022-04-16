@@ -15,12 +15,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<img src="https://itzkp-1253302184.cos.ap-beijing.myqcloud.com/it-dao.jpg" />
+
 - 🔭 我在北京工作~ 98年，已有未婚妻 😁
 - 📫 前端开发工程师
 - 🌱 区块链共建者
 - 👯 Web3.0技术拥护者
-- 💬 近期在组建IT-DAO(web3中文技术第一DAO)
-- ⚡  IT-DAO OG
+- ⚡  IT-DAO Founder
+
+推特地址：https://twitter.com/itdaoog
 
 ---
 
