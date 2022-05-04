@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img style="width: 70%;" src="https://avatars.githubusercontent.com/u/103578478?s=400&u=3a770eba2551741bb28d6be0ffe3d094fb189967&v=4" />
+<img style="width: 40%;" src="https://avatars.githubusercontent.com/u/103578478?s=400&u=3a770eba2551741bb28d6be0ffe3d094fb189967&v=4" />
 
 - 🔭 我在北京工作~ 98年，已有未婚妻 😁
 - 📫 前端开发工程师
