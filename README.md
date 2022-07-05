@@ -1,11 +1,13 @@
 <h2>☀️ 今天</h2>
-<blockquote>最后更新于 2022年07月05日 23时00分（每天早上 6:30 自动更新）</blockquote>
+<blockquote>最后更新于 2022年07月05日 23时03分（每天早上 6:30 自动更新）</blockquote>
 <p>哈喽，<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势"> 我是朱昆鹏</p>
-<p>🔭 我在北京工作~ 98年，已有未婚妻 😁</p>
-<p>📫 前端开发工程师</p>
-<p>🌱 区块链共建者</p>
-<p>👯 Web3.0技术拥护者</p>
-<p>⚡ IT-DAO Founder</p>
+<ul>
+  <li>🔭 我在北京工作~ 98年，已有未婚妻 😁</li>
+  <li>📫 前端开发工程师</li>
+  <li>🌱 区块链共建者</li>
+  <li>👯 Web3.0技术拥护者</li>
+  <li>⚡ IT-DAO Founder</li>
+</ul>
 <h2>💼 项目</h2>
 <p>下面是我在学前端的路上写的一些个人项目，有的比较认真 🧐，有的只是为了好玩 🎮，有的比较沙雕 🤪。</p>
 <table>
@@ -51,3 +53,4 @@
 <br>
 <h3>活跃度</h3>
 <img alt="Github 日常" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=zhukunpenglinyutong&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true"  />
+<blockquote>首页参考：https://github.com/haixiangyan/haixiangyan</blockquote>
