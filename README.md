@@ -1,6 +1,11 @@
 <h2>☀️ 今天</h2>
-<blockquote>最后更新于 2022年07月05日 22时55分（每天早上 6:30 自动更新）</blockquote>
-<p>哈喽，<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势"> 我是朱昆鹏，坐标北京，98年 前端开发工程师：</p>
+<blockquote>最后更新于 2022年07月05日 23时00分（每天早上 6:30 自动更新）</blockquote>
+<p>哈喽，<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势"> 我是朱昆鹏</p>
+<p>🔭 我在北京工作~ 98年，已有未婚妻 😁</p>
+<p>📫 前端开发工程师</p>
+<p>🌱 区块链共建者</p>
+<p>👯 Web3.0技术拥护者</p>
+<p>⚡ IT-DAO Founder</p>
 <h2>💼 项目</h2>
 <p>下面是我在学前端的路上写的一些个人项目，有的比较认真 🧐，有的只是为了好玩 🎮，有的比较沙雕 🤪。</p>
 <table>
@@ -25,7 +30,7 @@
       <th>🍀 图片无损压缩客户端</th>
       <th>
         <img src="https://img.shields.io/badge/Vue.js-35495E?style=flat-square&amp;logo=vue.js&amp;logoColor=4FC08" alt="badge">
-        <img src="https://img.shields.io/badge/-Electron-ea2845?style=flat-square&amp;logo=electron&amp;logoColor=white" alt="badge">
+        <img src="https://img.shields.io/badge/Electron-35495E?style=flat-square&amp;logo=electron&amp;logoColor=4FC08" alt="badge">
       </th>
       <th>
         <img src="https://img.shields.io/github/stars/zhukunpenglinyutong/electron-tiny-img?style=flat-square" alt="badge">
