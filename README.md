@@ -7,7 +7,7 @@
   <li>🌱 区块链共建者</li>
   <li>👯 Web3.0技术拥护者</li>
   <li>⚡ IT-DAO Founder</li>
-  <li>⚡ web3js中文网创建者（https://www.web3js.cc）</li>
+  <li>🐣 web3js中文网 Founder（https://www.web3js.cc）</li>
 </ul>
 <h2>💼 项目</h2>
 <p>下面是我在学前端的路上写的一些个人项目，有的比较认真 🧐，有的只是为了好玩 🎮，有的比较沙雕 🤪。</p>
