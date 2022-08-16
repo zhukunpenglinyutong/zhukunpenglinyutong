@@ -40,6 +40,21 @@
         <img src="https://img.shields.io/npm/dm/electron-tiny-img?style=flat-square" alt="badge">
       </th>
     </tr>
+    <tr>
+      <th>
+        <a href="https://github.com/IT-DAO/web3.js" target="_blank">web3js中文网</a>
+      </th>
+      <th>
+        <a href="https://github.com/IT-DAO/web3.js" target="_blank">Github</a>
+      </th>
+      <th>web3js中文网</th>
+      <th>
+        <img src="https://img.shields.io/badge/React.js-35495E?style=flat-square&amp;logo=vue.js&amp;logoColor=4FC08" alt="badge">
+      </th>
+      <th>
+        <img src="https://img.shields.io/github/stars/IT-DAO/web3.js?style=flat-square" alt="badge">
+      </th>
+    </tr>
   </tbody>
 </table>
 <h2>总览</h2>
