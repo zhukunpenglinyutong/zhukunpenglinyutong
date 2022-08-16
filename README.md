@@ -33,7 +33,6 @@
       <th>🍀 图片无损压缩客户端</th>
       <th>
         <img src="https://img.shields.io/badge/Vue.js-35495E?style=flat-square&amp;logo=vue.js&amp;logoColor=4FC08" alt="badge">
-        <img src="https://img.shields.io/badge/Electron-35495E?style=flat-square&amp;logo=electron&amp;logoColor=4FC08" alt="badge">
       </th>
       <th>
         <img src="https://img.shields.io/github/stars/zhukunpenglinyutong/electron-tiny-img?style=flat-square" alt="badge">
@@ -49,7 +48,7 @@
       </th>
       <th>web3js中文网</th>
       <th>
-        <img src="https://img.shields.io/badge/React.js-35495E?style=flat-square&amp;logo=react.js&amp;logoColor=4FC08" alt="badge">
+        <img src="https://img.shields.io/badge/React.js-35495E?style=flat-square&amp;logo=react&amp;logoColor=4FC08" alt="badge">
       </th>
       <th>
         <img src="https://img.shields.io/github/stars/IT-DAO/web3.js?style=flat-square" alt="badge">
