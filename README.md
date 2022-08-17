@@ -39,12 +39,12 @@
     </tr>
     <tr>
       <th>
-        <a href="https://github.com/IT-DAO/web3-start-book" target="_blank">《web3入门指南》</a>
+        <a href="https://github.com/IT-DAO/web3-start-book" target="_blank">web3-start-book</a>
       </th>
       <th>
         <a href="https://github.com/IT-DAO/web3-start-book" target="_blank">Github</a>
       </th>
-      <th>web3js中文网</th>
+      <th>《web3入门指南》</th>
       <th>
         <img src="https://img.shields.io/badge/Markdown-35495E?style=flat-square&amp;logo=Markdown&amp;logoColor=4FC08" alt="badge">
       </th>
@@ -54,7 +54,7 @@
     </tr>
     <tr>
       <th>
-        <a href="https://github.com/IT-DAO/web3.js" target="_blank">web3js中文网</a>
+        <a href="https://github.com/IT-DAO/web3.js" target="_blank">web3.js</a>
       </th>
       <th>
         <a href="https://github.com/IT-DAO/web3.js" target="_blank">Github</a>
