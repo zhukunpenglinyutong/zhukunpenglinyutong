@@ -10,7 +10,6 @@
   <li>🐣 web3js中文网 Founder（https://www.web3js.cc）</li>
 </ul>
 <h2>💼 项目</h2>
-<p>下面是我在学前端的路上写的一些个人项目，有的比较认真 🧐，有的只是为了好玩 🎮，有的比较沙雕 🤪。</p>
 <table>
   <thead align="center">
     <tr>
@@ -36,7 +35,6 @@
       </th>
       <th>
         <img src="https://img.shields.io/github/stars/zhukunpenglinyutong/electron-tiny-img?style=flat-square" alt="badge">
-        <img src="https://img.shields.io/npm/dm/electron-tiny-img?style=flat-square" alt="badge">
       </th>
     </tr>
     <tr>
