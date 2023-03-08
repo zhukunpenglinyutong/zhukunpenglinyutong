@@ -9,7 +9,7 @@
   <li>🌱 区块链共建者</li>
   <li>📡 Web3爱好者</li>
   <li>💷 IT-DAO Founder</li>
-  <li>📫 邮箱联系（有问必答）：kz298@nau.edu</li>
+  <li>📫 快速的ChatGPT服务【无需翻墙】：http://43.154.144.239:3002/</li>
 </ul>
 <h2>💼 项目</h2>
 <table>
