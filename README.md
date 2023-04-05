@@ -4,10 +4,13 @@
 <p>哈喽，<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势"> 我是朱昆鹏</p>
 <ul>
   <li>🔭 我在北京工作~ 98年，已有未婚妻 😁</li>
-  <li>📚 Northern Arizona University MCIT</li>
+  <li>📚 本科：中国人民大学计算机科学</li>
+  <li>📚 本科（辅修）：MBA</li>
+  <li>📚 研究生：Northern Arizona University MCIT</li>
   <li>🔋 前端开发工程师</li>
   <li>🌱 区块链共建者</li>
   <li>📡 Web3爱好者</li>
+  <li>📡 智能互联网时代先行者</li>
   <li>💷 ChatMoss Founder</li>
   <li>📫 快速的ChatGPT服务【无需翻墙】：http://chatmoss.aihao123.cn:3002/</li>
 </ul>
