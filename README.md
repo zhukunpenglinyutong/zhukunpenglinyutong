@@ -12,6 +12,5 @@
   <li>📡 智能互联网时代先行者</li>
   <li>💷 ChatMoss Founder</li>
   <li>🌱 AI开源共建基金会（AICCOF）发起人</li>
-  <li>📫 快速的ChatGPT服务【无需翻墙】：http://chatmoss.aihao123.cn:3002/</li>
 </ul>
 
